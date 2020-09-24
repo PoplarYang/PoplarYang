@@ -5,8 +5,6 @@
 - 🎓 Northem University for Nationalities
 - 🏠 [cnblog blog](https://www.cnblogs.com/hiyang)
 
-<img src="polarisxu-qrcode-small.jpg" alt="polarisxu" height="120" align="center"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=PoplarYang&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <!--
