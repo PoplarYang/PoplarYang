@@ -2,7 +2,7 @@
 
 ### I'm PoplarYang
 
-- 🎓 Northem University for Nationalities
+- 🎓 North University for Nationalities
 - 🏠 [cnblog blog](https://www.cnblogs.com/hiyang)
 
 <img src="https://github-profile-trophy.vercel.app/?username=PoplarYang&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
